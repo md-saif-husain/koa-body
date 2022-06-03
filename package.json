@@ -13,11 +13,11 @@
   "author": {
     "name": "Saif",
     "email": "saifh02@gmail.com",
-    "url": "https://github.com/dlau"
+    "url": "https://github.com/md-saif-husain"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dlau/koa-body.git"
+    "url": "git://github.com/md-saif-husain/koa-body"
   },
   "keywords": [
     "koa",
@@ -53,14 +53,9 @@
   },
   "contributors": [
     {
-      "name": "Daryl Lau",
-      "email": "dlau00@gmail.com",
-      "url": "https://github.com/dlau"
-    },
-    {
-      "name": "Charlike Mike Reagent",
-      "email": "mameto_100@mail.bg",
-      "url": "https://github.com/tunnckoCore"
+      "name": "Saif",
+      "email": "saifh02@gmail.com",
+      "url": "https://github.com/md-saif-husain"
     }
   ],
   "license": "MIT"
